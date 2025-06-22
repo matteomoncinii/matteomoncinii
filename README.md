@@ -1,8 +1,6 @@
-# Hi, I'm Matteo 👋
+# Hi there 👋
 <br>
 
-- 👋 Hi, I’m Matteo,
-- 🏠 I'm an Energy Engineer based in Pistoia, Italy
-- 🖥️ I'm currently working as a Simulation Software Developer
-- 👀 I’m interested in engineering stuff, coding and sports in general
-- 🚀 I am learning how to develop amazing things
+- My name is Matteo, I am an Energy Engineer living in Pistoia, Italy.
+- I'm currently working as a Simulation Software Developer in the refrigeration industry.
+- I am interested in learning how to develop amazing things. 🚀
